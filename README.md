@@ -8,6 +8,7 @@
 
 ![Washinton GitHub stats](https://github-readme-stats.vercel.app/api?username=washingtonbds&show_icons=true&theme=radical)
 
+
 ### Tecnologias que uso no meu dia
 
 <div style="display: incline_block"><br/>

@@ -39,6 +39,7 @@
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    <img align="center" alt="Google Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 </div><br>
+
   ![Snake animation](https://github.com/washingtonbds/washingtonbds/blob/output/github-contribution-grid-snake.svg)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.

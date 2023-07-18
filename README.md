@@ -38,10 +38,10 @@
   <img align="center" alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    <img align="center" alt="Google Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-</div>
-<div>
+</div><br>
+
   ![Snake animation](https://github.com/washingtonbds/washingtonbds/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 

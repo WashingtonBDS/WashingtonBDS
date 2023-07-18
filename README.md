@@ -6,7 +6,11 @@
 [![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washington-batista-620a8824b/)
 
 
-![Washinton GitHub stats](https://github-readme-stats.vercel.app/api?username=washingtonbds&show_icons=true&theme=radical)
+<div>
+<a href="https://github.com/washingtonbds">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washingtonbds&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=washingtonbds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ### Tecnologias que uso no meu dia
@@ -38,5 +42,5 @@
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-![snake gif](https://github.com/WashingtonBDS/WashingtonBDS/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/washingtonbds/washingtonbds/blob/output/github-contribution-grid-snake.svg)
 

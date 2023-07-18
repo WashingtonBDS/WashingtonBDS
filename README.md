@@ -40,7 +40,5 @@
    <img align="center" alt="Google Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 </div><br>
 
-  ![snake gif](https://github.com/washingonbds/washingtonbds/blob/output/github-contribution-grid-snake.svg)
-
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 

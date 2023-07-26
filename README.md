@@ -56,5 +56,13 @@
    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br>
 
+<div>
+  <img src="https://img.shields.io/github/license/{washingtonbds}/{repo-name}.svg" />
+  <img src="https://img.shields.io/github/commits-since/{username}/{washingtonbds}/{version}.svg" />
+  <img src="https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg" />
+  <img src="https://img.shields.io/github/forks/{washingtonbds}/{repo-name}.svg" />
+  <img src="https://img.shields.io/github/stars/{washingtonbds}/{repo-name}.svg" />
+</div><br>
+
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 

@@ -6,7 +6,9 @@
 [![LinkendIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washington-batista-620a8824b/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
 
-<div>
+<div align="center">
+   <div style="display: inline_block"><br>
+<img align="left" height="250" alt="coding-time" src="code.gif">
 <a href="https://github.com/washingtonbds">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washingtonbds&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=washingtonbds&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -57,12 +59,11 @@
 </div><br>
 
 <div>
-  <img src="https://img.shields.io/github/license/{washingtonbds}/{repo-name}.svg" />
-  <img src="https://img.shields.io/github/commits-since/{username}/{washingtonbds}/{version}.svg" />
-  <img src="https://img.shields.io/github/downloads/{username}/{repo-name}/total.svg" />
-  <img src="https://img.shields.io/github/forks/{washingtonbds}/{repo-name}.svg" />
-  <img src="https://img.shields.io/github/stars/{washingtonbds}/{repo-name}.svg" />
+   <img align="left" height="250" alt="coding-time" src="code.gif">
 </div><br>
+
+
+  ![Snake animation](https://github.com/washingtonbds/washingtonbds/blob/output/github-contribution-grid-snake.svg)
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 

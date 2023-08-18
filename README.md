@@ -62,8 +62,5 @@
    <img align="left" height="250" alt="coding-time" src="code.gif">
 </div><br>
 
-
-  ![Snake animation](https://github.com/washingtonbds/washingtonbds/blob/output/github-contribution-grid-snake.svg)
-
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
